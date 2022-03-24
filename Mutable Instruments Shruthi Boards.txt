@@ -1,0 +1,36 @@
+
+# ---: SVF Filter Board:
+
+12:F2 CUT
+13:F2 RESO
+85:F1 MODE
+86:F2 MODE
+
+
+# --- DSP Board: 
+
+12:} PARA 1
+13:} PARA 2
+87:} MODE
+88:} PROGRAM
+
+
+# --- Polivoks Filter Board:
+
+89:FILT TYP
+90:OVR-DRV
+91:FM FEEDB
+
+
+# --- 4PM Filter Board
+
+92:4PM filter mode
+93:4PM resonance flavor
+
+
+# --- Delay Board:
+
+12:DLY TIME
+13:DLY LVL
+94:DLY FB
+95:DLY EQ
